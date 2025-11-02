@@ -1,0 +1,5 @@
+{
+  "name": "Ad Reward App",
+  "description": "A simple application for earning rewards by watching ads and withdrawing earnings. Users can manage their profile and withdrawal methods.",
+  "requestFramePermissions": []
+}
